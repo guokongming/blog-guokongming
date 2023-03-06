@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: '郭孔明律师Notion博客',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: '郭孔明',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
