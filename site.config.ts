@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: '郭孔明律师Notion博客',
-  domain: 'guokongming.top',
+  domain: 'blog-guokongming.vercel.app',
   author: '郭孔明',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '让法律更美好',
 
   // social usernames (optional)
   twitter: 'guokongming',
