@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8ba647580e0f431c892766a035d24036',
+  rootNotionPageId: '7875426197cf461698809def95960ebf',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: '3d3be8d8198648b09504f6e5e55a6183',
+  rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '郭孔明律师Notion博客',
-  //domain: 'blog-guokongming.vercel.app',
-  author: '郭孔明',
+  name: 'Next.js Notion Starter Kit',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: '让法律更美好',
+  description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'guokongming',
-  github: 'guokongming',
-  linkedin: 'guokongming',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
