@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '郭孔明律师Notion博客',
-  domain: 'https://guokongming.notion.site/Notion-8ba647580e0f431c892766a035d24036',
+  domain: 'https://guokongming.notion.site/3d3be8d8198648b09504f6e5e55a6183',
   author: '郭孔明',
 
   // open graph metadata (optional)
