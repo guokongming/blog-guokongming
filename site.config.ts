@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '郭孔明律师Notion博客',
-  domain: 'blog-guokongming.vercel.app',
+  //domain: 'blog-guokongming.vercel.app',
   author: '郭孔明',
 
   // open graph metadata (optional)
