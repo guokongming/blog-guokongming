@@ -6,11 +6,12 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  //rootNotionSpaceId: null,
+  rootNotionSpaceId: '3d3be8d8198648b09504f6e5e55a6183',
 
   // basic site info (required)
   name: '郭孔明律师Notion博客',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://guokongming.notion.site/Notion-8ba647580e0f431c892766a035d24036',
   author: '郭孔明',
 
   // open graph metadata (optional)
