@@ -37,8 +37,11 @@ export default siteConfig({
   // whether or not redis is enabled for caching generated preview images (optional)
   // NOTE: if you enable redis, you need to set the `REDIS_HOST` and `REDIS_PASSWORD`
   // environment variables. see the readme for more info
-  isRedisEnabled: false,
-
+  //isRedisEnabled: false,
+  isRedisEnabled: true,
+  REDIS_HOST='default',
+  REDIS_PASSWORD='${{ secrets.REDIS_PASSWORD_BLOGGUOKONGMING }}',
+  
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
   // example:
