@@ -15,7 +15,7 @@ export default siteConfig({
   author: '郭孔明',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '公义、担当、有作为',
 
   // social usernames (optional)
   twitter: 'guokongming',
