@@ -40,7 +40,7 @@ export default siteConfig({
   //isRedisEnabled: false,
   isRedisEnabled: true,
   REDIS_HOST='default',
-  REDIS_PASSWORD='${{ secrets.REDIS_PASSWORD_BLOGGUOKONGMING }}',
+  REDIS_PASSWORD='Z3BakvqTqV41EDy4DjvGml1UTaqWlW3V',
   
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
